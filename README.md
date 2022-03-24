@@ -1,7 +1,27 @@
-- 👋 Hi, I’m @aloicerains
-- 👀 I’m interested in providing digital solutions
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on different projects to hone my coding skills
+### HI!   
+I'm Zacchaeus 👋 but you can call me Aloice     
+I'm a Software developer with background in Mining and Mineral Processing Engineering. I love to using technology for productivity, value, and change.
+
+### Skills
+#### Programming languages
+* Python
+* C
+* MySQL
+* HTML
+* CSS
+* Node.js
+* JavaScript
+* R
+#### Frameworks
+* Git
+* Flask
+* Gunicorn
+* ufw
+* Nginx
+* Docker
+* Express
+* pm2
+
 - 📫 How to reach me: aloiceokoth98@gmail.com
 
 <!---
