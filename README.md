@@ -1,6 +1,7 @@
 ### HI!   
 I'm Zacchaeus 👋 but you can call me Aloice     
-I'm a Software developer with background in Mining and Mineral Processing Engineering. I love to using technology for productivity, value, and change.
+I'm a Software developer with background in Mining and Mineral Processing Engineering.    
+I love using technology for productivity, value, and change.
 
 ### Skills
 #### Programming languages
