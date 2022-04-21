@@ -11,8 +11,7 @@ I love using technology for productivity, value, and change.
 * HTML
 * CSS
 * Node.js
-* JavaScript
-* R
+* JavaScript 
 #### Frameworks
 * Git
 * Flask
